@@ -2,15 +2,16 @@
 python-injector is a app which lets you inject python code into running processes
 
 How to install:
-Install main.py and requirements.txt
 
-1. Open command prompt
+1. Download "main.py" and "requirements.txt"
 
-2. Change path  -> "cd (PATH-TO-requirements.txt)"
+2. Open command prompt
 
-3. Then run "pip install -r requirements.txt" to install all required packages
+3. Change path  -> "cd (PATH-TO-requirements.txt)"
 
-4. Run main.py
+4. Then run "pip install -r requirements.txt" to install all required packages
+
+5. Run main.py
 
 
 Pictures:
