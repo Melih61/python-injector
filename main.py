@@ -20,7 +20,7 @@ class CMDS:
 
             for host in nm.all_hosts():
                 print(f"Host: {host} ({nm[host].hostname()})")
-                print(f"OS: {nm[host]["osmatch"]}")
+                print(f"OS: {nm[host]['osmatch']}")
                 for proto in nm[host].all_protocols():
                     print(f"Protocol: {proto}")
                     lport = nm[host][proto].keys()
